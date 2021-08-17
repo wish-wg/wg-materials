@@ -19,6 +19,8 @@ https://codimd.ietf.org/notes-ietf-111-wish
 
 ## Agenda
 
+[Slides](https://github.com/wish-wg/wg-materials/blob/main/ietf111/wish%40ietf111.pdf)
+
 ### Administrivia - Chairs - 10min
 
 - Virtual Meeting Tips
