@@ -53,7 +53,7 @@ Around Trickle ICE:
     Lorenz should be the one to ask.
     Limited number of servers we are hoping for, those are features that can be ignored by the client but not the server.
     2 point: must have a reference client (will be helpful to server authors), which is the one we should use?  Must have clear instructions. We need a reference.
-    3 point: most of the server authors have a web client that works, which means that the incentive to implement is low. Which is the killer feature of this (to implement WISH)? Modern browsers don't implement screen sharing, so this could be the killer feature for ipads and tablets.
+    3 point: most of the server authors have a web client that works, which means that the incentive to implement is low. Which is the killer feature of this (to implement WISH)? Mobile browsers don't implement screen sharing, so this could be the killer feature for ipads and tablets.
 
     Murrillo: 
     For second point: When draft is more aproved, planning to run an interop hackton.
