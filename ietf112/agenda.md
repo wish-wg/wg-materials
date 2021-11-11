@@ -27,22 +27,21 @@ https://codimd.ietf.org/notes-ietf-112-wish
 - Jabber Scribe
 - Status
 
-[Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-chair-slides-00)
+[Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-chair-slides-02)
 
 ### WHIP - Sergio
 
 [I-D Repo](https://github.com/wish-wg/webrtc-http-ingest-protocol)
 
-[Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-chair-slides-00)
+[Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-chair-slides-02)
 
 ### Hackathon - Lorenzo
 
 [Implementations](https://mailarchive.ietf.org/arch/msg/wish/nFpV_MW1DoRGpGhIWldZoLtx4gU/)
+[Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-chair-slides-02)
 
-### Implementation Experience: WISH in Jannus (and GStreamer)
+### Implementation Experience: WISH in Janus (and GStreamer)
 
 [Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-implementation-experience-whip-in-janus-and-gstreamer-00)
 
 ### Implementation Experience: WISH in Galene - Juliusz
-
-Slides - TBD
