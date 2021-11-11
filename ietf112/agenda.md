@@ -35,7 +35,7 @@ https://codimd.ietf.org/notes-ietf-112-wish
 
 [Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-chair-slides-00)
 
-### Hackathon - Sergio
+### Hackathon - Lorenzo
 
 [Implementations](https://mailarchive.ietf.org/arch/msg/wish/nFpV_MW1DoRGpGhIWldZoLtx4gU/)
 
