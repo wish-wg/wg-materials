@@ -45,3 +45,5 @@ https://codimd.ietf.org/notes-ietf-112-wish
 [Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-implementation-experience-whip-in-janus-and-gstreamer-00)
 
 ### Implementation Experience: WISH in Galene - Juliusz
+
+[Slides](https://datatracker.ietf.org/meeting/112/materials/slides-112-wish-wish-in-galene-00)
