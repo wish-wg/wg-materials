@@ -35,4 +35,4 @@ Slides: TBD
 
 ### Way Forward (remaining)
 
-Open discussion.
+Open MIC
