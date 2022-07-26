@@ -31,8 +31,6 @@ CodiMD (notes):
 [https://datatracker.ietf.org/doc/draft-ietf-wish-whip/](https://datatracker.ietf.org/doc/draft-ietf-wish-whip/)\
 [https://github.com/wish-wg/webrtc-http-ingest-protocol](https://github.com/wish-wg/webrtc-http-ingest-protocol)
 
-Slides: TBD
-
 ### Way Forward (remaining)
 
 #### WebRTC-HTTP egress protocol - Sergio Murillo
