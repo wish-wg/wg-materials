@@ -26,7 +26,7 @@ CodiMD (notes):
 - Jabber Scribe
 - Status
 
-### WHIP - Sergio Murillo (50+ min)
+### WHIP - Sergio Murillo (30+ min)
 
 [https://datatracker.ietf.org/doc/draft-ietf-wish-whip/](https://datatracker.ietf.org/doc/draft-ietf-wish-whip/)\
 [https://github.com/wish-wg/webrtc-http-ingest-protocol](https://github.com/wish-wg/webrtc-http-ingest-protocol)
@@ -34,5 +34,9 @@ CodiMD (notes):
 Slides: TBD
 
 ### Way Forward (remaining)
+
+#### WebRTC-HTTP egress protocol - Sergio Murillo
+
+[https://datatracker.ietf.org/doc/draft-murillo-whep/](https://datatracker.ietf.org/doc/draft-murillo-whep/)
 
 Open MIC
